@@ -25,3 +25,5 @@ void input()
         cin >> element[i];
     }
 }
+
+void BubbleSortArray()
